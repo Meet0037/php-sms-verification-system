@@ -1,2 +1,2 @@
-To make this project work, you need add your folder/root or domain URL and SMTP account add into config.php. For SMS Getway Api go to verify.php in classes folder and add your api hash. Database sql file is added to database folder 
+To make this project work, you need add your folder/route or domain URL and SMTP account add into config.php. For SMS Getway Api go to verify.php in classes folder and add your api hash. Database sql file is added to database folder 
 
